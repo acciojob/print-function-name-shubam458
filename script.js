@@ -3,6 +3,6 @@
 
 function fname(){
 
-	console.log(arguments.callee.name);
+	alert(arguments.callee.name);
 	
 }
