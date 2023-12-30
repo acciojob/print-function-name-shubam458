@@ -1,13 +1,13 @@
 //your JS code here. If required.
 
 
-function fname(){
+function vineet(){
 
-	alert(arguments.callee.name);
+	console.log(alert(arguments.callee.name));
 	
 }
 
 
 // call
 
-fname();
+vineet();
