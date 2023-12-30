@@ -6,3 +6,8 @@ function fname(){
 	alert(arguments.callee.name);
 	
 }
+
+
+// call
+
+fname();
